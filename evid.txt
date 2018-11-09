@@ -1,0 +1,8 @@
+Ukupan broj zahtjeva = 278
+Broj neispravnih zahtjeva = 20
+Broj nedozvoljenih zahtjeva = 0
+Broj usješnih zahtjeva = 68
+Broj prekinutih zahtjeva = 0
+Ukupno vrijeme rada radnih dretvi = 458550
+Broj obavljenih serijalizacija = 1594
+*****************

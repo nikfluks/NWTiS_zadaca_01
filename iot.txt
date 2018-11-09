@@ -1,0 +1,6 @@
+id = 2
+temp = 25
+vlaga = 33
+naziv = senzor_za_nesto
+nkj = novo
+*****************
